@@ -1,0 +1,3 @@
+SSD1306_WIRE.cpp libraries/DisplayCore/SSD1306_WIRE
+SSD1306_WIRE.h libraries/DisplayCore/SSD1306_WIRE
+examples libraries/DisplayCore/SSD1306_WIRE
